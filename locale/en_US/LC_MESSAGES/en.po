@@ -1,0 +1,287 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-03-10 17:39+0100\n"
+"PO-Revision-Date: 2018-03-10 17:43+0100\n"
+"Last-Translator: Ricardo\n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Basepath: ../../..\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: PHPMailer_5.2.4\n"
+
+#: partials/autenticar.php:17
+msgid "Introduce contraseña"
+msgstr "Enter password"
+
+#: partials/banner.php:60
+msgid "RUTA EN BICI ELECTRICA POR AVILA"
+msgstr "ELECTRIC BIKE ROUTE BY AVILA"
+
+#: partials/footer.php:5
+msgid "Entidades colaboradoras"
+msgstr "Associates"
+
+#: partials/footer.php:24
+msgid "Direccion:"
+msgstr "Address:"
+
+#: partials/footer.php:25
+msgid "Email:"
+msgstr "Email:"
+
+#: partials/footer.php:26
+msgid "Telefono:"
+msgstr "Phone number:"
+
+#: partials/footer.php:39
+msgid "© Copyright 2018 Copyright.es - Todos los Derechos Reservados - Legal"
+msgstr "© Copyright 2018 Copyright.es - All Rights Reserved - Legal"
+
+#: partials/header.php:28
+msgid "Solicitar reserva"
+msgstr "Modify reservation"
+
+#: partials/header.php:29
+msgid "Modificar reserva"
+msgstr "Modify reservation"
+
+#: partials/header.php:30
+msgid "Cancelar reserva"
+msgstr "Delete reservation"
+
+#: partials/header.php:31
+msgid "Ver disponibilidad"
+msgstr "See availability"
+
+#: partials/header.php:45
+msgid "Principal"
+msgstr "Principal"
+
+#: partials/header.php:46
+msgid "Servicios"
+msgstr "Services"
+
+#: partials/header.php:47
+msgid "Contacto"
+msgstr "Contact"
+
+#: partials/header.php:48
+msgid "Conocenos"
+msgstr "Know us"
+
+#: vista/Contacto.php:19
+msgid "Nombre y apellidos"
+msgstr "Name and last name"
+
+#: vista/Contacto.php:33
+msgid "Descripción"
+msgstr "Description"
+
+#: vista/Disponibilidad.php:24
+msgid "CALENDARIO DE RESERVAS"
+msgstr "Booking Calendar"
+
+#: vista/Modificar.php:44 vista/Reservas.php:53
+msgid "NIF"
+msgstr "Tax identification number"
+
+#: vista/Modificar.php:52 vista/Reservas.php:25 vista/borrar.php:48
+msgid "Nombre"
+msgstr "Name"
+
+#: vista/Modificar.php:55 vista/Reservas.php:28 vista/borrar.php:51
+msgid "Introduce nombre"
+msgstr "Enter name"
+
+#: vista/Modificar.php:59 vista/Reservas.php:32 vista/borrar.php:55
+msgid "Primer apellido"
+msgstr "First name"
+
+#: vista/Modificar.php:62 vista/Reservas.php:35 vista/borrar.php:58
+msgid "Introduce primer apellido"
+msgstr "Enter first name"
+
+#: vista/Modificar.php:66 vista/Reservas.php:39 vista/borrar.php:62
+msgid "Segundo apellido"
+msgstr "Last name"
+
+#: vista/Modificar.php:69 vista/Reservas.php:42 vista/borrar.php:65
+msgid "Introduce segundo apellido"
+msgstr "Enter last name"
+
+#: vista/Modificar.php:77 vista/Reservas.php:94
+msgid "Dia"
+msgstr "Day"
+
+#: vista/Principal.php:22
+msgid ""
+"Durante la ruta turistica podrás observar monumentos historicos que te "
+"permiten ampliar tu conocimiento sobre la ciudad de Ávila, además de hacer "
+"deporte al aire libre."
+msgstr ""
+"During the tourist route you can observe historical monuments that allow you "
+"to expand your knowledge about the city of Ávila, as well as doing outdoor "
+"sports."
+
+#: vista/Principal.php:25
+msgid "ver mapa"
+msgstr "see map"
+
+#: vista/Principal.php:29
+msgid "El proyecto"
+msgstr "The proyect"
+
+#: vista/Principal.php:32
+msgid ""
+"Consiste en hacer rutas en bicicleta eléctrica en grupos de 6-8 personas, "
+"guiadas por especialistas, profesores y alumnos del Centro Integrado, con "
+"explicaciones sobre la historia de la ciudad por los alumnos  de turismo del "
+"IES Jorge Santayana."
+msgstr ""
+"It consists of electric bike routes in groups of 6-8 people, guided by "
+"specialists, teachers and students of the Integrated Center, with "
+"explanations about the history of the city by tourism students of the IES "
+"Jorge Santayana."
+
+#: vista/Principal.php:40
+msgid ""
+"El punto de salida será el Centro de Visitantes de Ávila. Desde este lugar "
+"iniciaremos una ruta por los monumentos historicos de la ciudad, disfrutando "
+"de una experiencia al aire libre con un ambiente limpio y fresco."
+msgstr ""
+"The departure point will be the Visitor Center of Avila. From this place we "
+"will start a route through the historical monuments of the city, enjoying an "
+"outdoor experience with a clean and fresh environment."
+
+#: vista/Principal.php:52
+msgid ""
+"El objetivo de este proyecto educativo es promover la capacidad de "
+"emprendimiento entre los estudiantes de formación profesional."
+msgstr ""
+"The objective of this educational project is to promote entrepreneurship "
+"among vocational students."
+
+#: vista/Principal.php:55
+msgid ""
+"También queremos concienciar de la importancia del uso de la bicicleta como "
+"medio de transporte limpio, mentalizando a la población de los múltiples "
+"beneficios del ejercicio físico."
+msgstr ""
+"We also want to raise awareness of the importance of using the bicycle as a "
+"means of clean transport, mentalizing the population of the many benefits of "
+"physical exercise."
+
+#: vista/Principal.php:59
+msgid "Informacion adicional"
+msgstr "Additional Information"
+
+#: vista/Principal.php:62
+msgid ""
+"Rutas gratis para los clientes. Incluyen: Seguro de accidentes, casco y "
+"chaleco reflectante."
+msgstr ""
+"Free routes for customers. They include: Accident insurance, helmet and "
+"reflective vest."
+
+#: vista/Principal.php:65
+msgid ""
+"Ruta urbana por Ávila monumental, de 1 hora 20 minutos de duración aprox."
+msgstr ""
+"Urban route through monumental Ávila, 1 hour 20 minutes duration approx."
+
+#: vista/Principal.php:68
+msgid "El punto de salida y llegada es el Centro de Visitantes de Ávila."
+msgstr "The point of departure and arrival is the Visitor Center of Avila."
+
+#: vista/Reservas.php:46
+msgid "Edad"
+msgstr "Age"
+
+#: vista/Reservas.php:49
+msgid "Introduce edad"
+msgstr "Enter age"
+
+#: vista/Reservas.php:57
+msgid "Introduce NIF"
+msgstr "Enter NIF"
+
+#: vista/Reservas.php:61
+msgid "Telefono Movil:"
+msgstr "Phone number:"
+
+#: vista/Reservas.php:64
+msgid "Introduce telefono movil"
+msgstr "Enter phone number"
+
+#: vista/Reservas.php:72
+msgid "Introduce email"
+msgstr "Enter email"
+
+#: vista/Reservas.php:78
+msgid "Como nos has conocido"
+msgstr "How have you known us"
+
+#: vista/Reservas.php:112
+msgid "Turno"
+msgstr "Turn"
+
+#: vista/Reservas.php:119
+msgid "Realizar reserva"
+msgstr "Make a reservation"
+
+#: vista/borradoExito.php:20
+msgid "Reserva cancelada con exito"
+msgstr "Booking canceled successfully"
+
+#: vista/borrar.php:77
+msgid "Borrar reserva"
+msgstr "Delete reservation"
+
+#: vista/confirmacion.php:18
+msgid "CONFIRMACION DE RESERVA"
+msgstr "BOOKING CONFIRMATION"
+
+#: vista/confirmacion.php:19
+msgid "Este es el tatatatatatt"
+msgstr ""
+
+#: vista/confirmacion.php:24
+msgid "Contraseña"
+msgstr "Password"
+
+#: vista/confirmacionReserva.php:13
+msgid "Email enviado con exito"
+msgstr "Email sent successfully"
+
+#: vista/confirmacionReserva.php:14
+msgid "En caso de no encontrar su reserva, revise su correo spam"
+msgstr "If you can not find your reservation, check your spam email"
+
+#: vista/confirmadoExito.php:25
+msgid "RESERVA CONFIRMADA"
+msgstr "CONFIRMED RESERVATION"
+
+#: vista/modificadoExito.php:13
+msgid "Reserva modificada con exito"
+msgstr "Reserve modified successfully"
+
+#, fuzzy
+#~| msgid "Segundo apellido"
+#~ msgid "Segundo apellido<"
+#~ msgstr "Last name"
+
+#~ msgid "La ruta"
+#~ msgstr "The route"
+
+#~ msgid "Punto de partida"
+#~ msgstr "Point"
+
+#~ msgid "El objetivo"
+#~ msgstr "The objective"
